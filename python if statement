@@ -1,0 +1,21 @@
+im trying to get this:
+
+>>> age = 20
+>>> if age >= 20:
+...   print("You are an adult")
+>>> else:
+...   print("You are under 20!")
+
+
+
+but when i click Enter on my keyborad after the if statement, i get this:
+
+>>> age = 20
+>>> if age >= 20:
+...   print("You are an adult")
+... else:
+...   print("You are under 20!")
+SyntaxError: multiple statements found while compiling a single statement
+
+
+How do I achieve the >>> in front of else, instead of getting ... else?
